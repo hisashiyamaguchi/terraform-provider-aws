@@ -1,5 +1,3 @@
-Test.
-
 <!-- markdownlint-disable first-line-h1 no-inline-html -->
 <a href="https://terraform.io">
   <picture>
